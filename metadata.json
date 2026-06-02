@@ -1,0 +1,6 @@
+{
+  "name": "Minimalist Edge Launcher",
+  "description": "An interactive Android-style edge gesture-based sidebar launcher showing overlay services, settings, and SharedPreferences mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
